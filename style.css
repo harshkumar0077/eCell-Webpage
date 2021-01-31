@@ -1,0 +1,68 @@
+﻿h2, h1 {
+    text-align: center;
+}
+
+* {
+    margin: 0px;
+
+    font-family: 'Franklin Gothic', sans-serif;
+}
+
+#header {
+    margin: auto;
+    background-color: black;
+    color: rgb(248, 243, 165);
+    padding: 10px;
+}
+
+.form {
+    margin: auto;
+    margin-top: 5px;
+    border: 20px solid black;
+    width: 60%;
+    color: rgb(133, 121, 57);
+    padding: 12px;
+    background-color: papayawhip;
+}
+
+#header * {
+    margin: 5px;
+}
+
+.form h1 {
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+input, button {
+    margin: 6px;
+    width: 95%;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px grey;
+}
+
+.center {
+    
+    margin: auto;
+    
+    padding: 10px;
+}
+
+.btn {
+    border: none;
+    padding: 8px;
+    
+    border-radius: 5px;
+    background: linear-gradient(to right,saddlebrown,#faebd7)
+}
+
+.form p {
+    text-align: center;
+    font-size: small;
+}
+
+.form * {
+    margin: 5px 0;
+}
