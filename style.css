@@ -46,14 +46,12 @@ input, button {
 .center {
     
     margin: auto;
-    
-    padding: 10px;
+     padding: 10px;
 }
 
 .btn {
     border: none;
     padding: 8px;
-    
     border-radius: 5px;
     background: linear-gradient(to right,saddlebrown,#faebd7)
 }
